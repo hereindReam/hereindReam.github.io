@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey there!  I'm Yuexin Li, a curious 2021-year student at [Jilin University](https://www.jlu.edu.cn/) diving deep into the world of Software Engineering.  When I'm not tackling textbooks, you'll find me playing games.  Excited to connect and share more!
+Hey there!  I'm Sesynia, a curious 202x-year student at [Jilin University](https://www.jlu.edu.cn/) diving deep into the world of Software Engineering.  When I'm not tackling textbooks, you'll find me playing games.  Excited to connect and share more!
 
 [QQ](..images/QQcode.png)
 
